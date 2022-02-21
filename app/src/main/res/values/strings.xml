@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Best App</string>
+    <string name="intro">Intro to Android DEV</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="poster">POSTER</string>
+    <string name="avatar">AVATAR</string>
+</resources>
